@@ -1,2 +1,23 @@
 # Password_checker
-This is a program that checks the streght of your password based on it length and characters used.
+# Password Strength Checker
+
+A simple Python cybersecurity project that evaluates password strength.
+
+## Features
+
+- Checks password length
+- Checks for uppercase letters
+- Checks for lowercase letters
+- Checks for numbers
+- Checks for special characters
+
+## Technology
+
+- Python
+- Regular Expressions
+
+## How to run
+
+Run:
+
+python password_checker.py
